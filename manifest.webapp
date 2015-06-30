@@ -1,0 +1,22 @@
+{
+    "name": "Caviar",
+    "launch_path": "/caviar/index.html",
+    "description": "Find the Best Restaurants Delivered to Your Door Now!",
+    "icons": {
+        "60": "/caviar/img/icon-60.png",
+        "128": "/caviar/img/icon-128.png"
+    },
+    "developer": {
+        "name": "Caviar, Inc.",
+        "url": "http://www.trycaviar.com"
+    },
+    "default_locale": "en",
+    "permissions": {
+        "browser": {
+            "description": "Allows us to have additional control over how our app is rendered."
+        },
+        "geolocation": {
+            "description": "Position the user without prompting."
+        }
+    }
+}
